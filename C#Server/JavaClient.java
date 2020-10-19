@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.Socket;
 
-public class Client {
+public class JavaClient {
 
     public static void main(String[] args)
     {
