@@ -1,7 +1,6 @@
 
 //Java compile files
-.class
-
+*.class
 
 //C# compile files
-.exe
+*.exe
