@@ -1,6 +1,6 @@
 
-//Java compile files
+#Java compile files
 *.class
 
-//C# compile files
+#C# compile files
 *.exe
