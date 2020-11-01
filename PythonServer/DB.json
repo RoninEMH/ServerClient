@@ -1,0 +1,10 @@
+{
+  "data": {
+    "users": [
+      { "id": 0, "name": "admin", "password": "12345" },
+      { "id": 1, "name": "itaym", "password": "24680" },
+      { "id": 2, "name": "Goku", "password": "Kamehameha" },
+      { "id": 3, "name": "Vegeta", "password": "Final Flash" }
+    ]
+  }
+}
